@@ -1,4 +1,4 @@
 # Python is a popular programming language.
-# Python can be used on a server to create web applications.
+# Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically type-checked and garbage-collected.
 
 
